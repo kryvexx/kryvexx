@@ -1,7 +1,3 @@
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/70284671"  />
-
-###
-
 <h2 align="left">Welcome to my profile!</h2>
 
 ###
