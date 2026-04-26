@@ -6,11 +6,7 @@
 
 ###
 
-<h4 align="left">You can find my work by browsing my repositories or through my GitHub Pages, where I provide ready-to-use applications/services.</h4>
-
-###
-
-<br clear="both">
+<h4 align="left">You can find my work by browsing my repositories or through my <a href="https://kryvexx.github.io/">GitHub Pages</a>, where I provide ready-to-use applications/services.</h4>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
@@ -19,8 +15,6 @@
 ###
 
 <h3 align="left">Languages ​​I have experience with</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
@@ -67,8 +61,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
