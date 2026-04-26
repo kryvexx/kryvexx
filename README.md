@@ -81,6 +81,10 @@
 ###
 
 <h6 align="left">If you want to get in contact with me, please hit me up on Telegram.<br>You can either type my username, "kryvex", or click on the icon below to get redirected.<br>I usually respond within 4 hours, if I'm not busy (or sleeping, check my timezone!).</h6>
+<h4>Beware: I am NOT affiliated with "Kryvex Games", "Kryvex Store" or any similar name (@kryvexXx on Telegram).<br>
+I was contacted and asked to give up my username and declined.<br>
+The name similarity is entirely their choice, not mine. We have zero connection.<br>
+<a href="https://github.com/kryvexx/kryvexx/tree/main/media">See the screenshots</a></h4>
 
 ###
 
